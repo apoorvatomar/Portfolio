@@ -1069,6 +1069,11 @@ iframe {
 
 
 @media (max-width: 750px) {
+ 
+    ::-webkit-scrollbar {
+      display: none;
+    }
+  
   nav .navbar{
     width: 90%;
   }
@@ -1135,4 +1140,3 @@ iframe {
   margin: 0rem 8rem;
 }
 }
-
