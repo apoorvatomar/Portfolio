@@ -17,7 +17,7 @@ window.onscroll = function() {
 // Typewriter Effect.
 
 var typeName = document.getElementById("name");
-var myName = ["I'am Apoorva Tomar", "A Front End Developer"," A Back End Developer"];
+var myName = ["I'am Apoorva Tomar", "A Full Stack Developer""];
 let charPosition = 0;
 let textPosition = 0;
 
