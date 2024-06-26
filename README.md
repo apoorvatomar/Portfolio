@@ -1,4 +1,4 @@
-**Portfolio**
+**Portfolio**<span style="font-size:1em;">Portfolio</span>
 Welcome to my portfolio! This project showcases my work and skills using HTML, CSS, and JavaScript. You can view the live version [here](https://apoorvatomar.github.io/Portfolio/).
 
 **Table of Contents**
