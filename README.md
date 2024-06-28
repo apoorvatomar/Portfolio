@@ -1,6 +1,4 @@
-Here is a sample README for your "Portfolio" project on GitHub, created using HTML, CSS, and JavaScript:
 
----
 
 # Portfolio
 
